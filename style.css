@@ -26,7 +26,7 @@ body{
         2px 2px 5px rgba(94, 104, 121, 0.288);
 }
 .logo{
-  color: whitesmoke;
+  color: #fff;
   width: 12rem;
   font-size: 1.5rem;
   font-weight: bolder;
@@ -65,7 +65,7 @@ body{
   order: 2;
 }
 .img img {
-
+  height: 500px;
   width: 500px;
 }
 .top .text{
