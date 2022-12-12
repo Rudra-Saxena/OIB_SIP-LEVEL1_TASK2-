@@ -226,16 +226,16 @@ body{
     width: 90%;
 }
 .content .right .css::before{
-    width: 60%;
-}
-.content .right .cpp::before{
-    width: 80%;
+    width: 70%;
 }
 .content .right .php::before{
     width: 50%;
 }
+.content .right .cpp::before{
+    width: 90%;
+}
 .content .right .python::before{
-    width: 70%;
+    width: 80%;
 }
 
 
